@@ -1,6 +1,6 @@
 {
-  "name": "github-package-demo",
-  "version": "1.0.0",
+  "name": "@nitzyjay/github-package-demo",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "url": "git@github.com:nitzyjay/github-package-demo.git"
+  },
   "license": "ISC"
 }
